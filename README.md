@@ -2,5 +2,7 @@ Web browser created with the guidance of the [browser engineering textbook](http
 
 To run, put both files in the same directory and run the command
 ```
-python browser.py
+python browser.py https://browser.engineering
 ```
+
+Other URLs may be used, but be warned that doing so may not work due to its limited capabilities.
